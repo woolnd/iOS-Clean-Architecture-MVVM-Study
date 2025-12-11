@@ -1,6 +1,7 @@
 import Foundation
 import UIKit
 
+// 앱의 기본적인 appearance 설정 클래스
 final class AppAppearance {
     
     static func setupAppearance() {

@@ -1,3 +1,4 @@
+# Clean Architecture and MVVM를 공부하며 주석을 추가한 버전입니다! <br> 참고만 해주시면 감사하겠습니다!
 
 # Template iOS App using Clean Architecture and MVVM
 
